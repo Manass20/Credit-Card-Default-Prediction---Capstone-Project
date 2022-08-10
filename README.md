@@ -1,6 +1,6 @@
 # Credit-Card-Default-Prediction---Capstone-Project
 
-Manas Ranjan Behera
+![772971-credit-card-shutterstock](https://user-images.githubusercontent.com/103633582/183985508-a2f3e92c-ff73-448b-a108-6140180bef8e.jpg)
 
 AlmaBetter Verfied Project - AlmaBetter School
 -----------------------------------------------------
