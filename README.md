@@ -65,8 +65,28 @@ PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)
 
 default.payment.next.month: Default payment (1=yes, 0=no)
 
-# 📋 Summary -
-The main objective is aimed at predicting the case of customers default payments in Taiwan. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients. This would inform the issuer’s decisions on who to give a credit card to and what credit limit to provide. It would also help the issuer have a better understanding of their current and potential customers, which would inform their future strategy, including their planning of offering targeted credit products to their customers.
+# 💾 Appraoch Method
+Exploratory Data Analysis (EDA): In this part we have done some EDA on the features to see the trend.
+
+## Data Processing:
+In this part we applied SMOTE(Synthetic Minority Oversampling Technique) as the classes were unbalanced in the dataset. Also computed features based on feature importance. PAY_SEPT_0, LIMIT_BAL were the top features.
+
+## Model Creation:
+Finally in this part we created the various models. These various models are being analysed and we tried to study various models so as to get the best performing model for our project.
+
+# 💾 Models Used
+
+• Logistic Regression
+
+• Decision Tree Classifier
+
+• Random Forest Classifier
+
+• Support Vector Machine
+
+• Gradient Boosting
+
+• XG Boosting
 
 -----------------------------------------------------
 
