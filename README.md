@@ -3,7 +3,9 @@
 ![772971-credit-card-shutterstock](https://user-images.githubusercontent.com/103633582/183985508-a2f3e92c-ff73-448b-a108-6140180bef8e.jpg)
 
 AlmaBetter Verfied Project - AlmaBetter School
+
 -----------------------------------------------------
+
 # 📋 Introduction -
 
 Credit cards are usually small plastic cards with a unique number attached to an account.
@@ -11,6 +13,7 @@ Credit cards impose the condition that cardholders pay back the borrowed money, 
 
 
 -----------------------------------------------------
+
 # 📋 Dataset - 
 
 We used the [Credit Card Default payment in Taiwan] (https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) to predict whether the credit card holders are defaulters or Non-defaulters. The Dataset and its attributes are described below
@@ -65,7 +68,9 @@ PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)
 
 default.payment.next.month: Default payment (1=yes, 0=no)
 
-# 💾 Appraoch Method
+-------------------------------------
+
+# 💾 Appraoch Method - 
 Exploratory Data Analysis (EDA): In this part we have done some EDA on the features to see the trend.
 
 ## Data Processing:
@@ -74,7 +79,7 @@ In this part we applied SMOTE(Synthetic Minority Oversampling Technique) as the 
 ## Model Creation:
 Finally in this part we created the various models. These various models are being analysed and we tried to study various models so as to get the best performing model for our project.
 
-# 💾 Models Used
+# 💾 Models Used - 
 
 • Logistic Regression
 
